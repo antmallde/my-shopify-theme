@@ -86,7 +86,7 @@
           "settings": {
             "heading": "Beschreibung",
             "icon": "chat_bubble",
-            "row_content": "<p>Die Verbindungsabdeckung dient zum sauberen Verschließen ungenutzter Anschlussstellen innerhalb des modularen Ameisennestsystems. Sie wird eingesetzt, wenn an einem Modul kein Nestverbinder, Schlauchverbinder oder Reagenzglasverbinder angeschlossen ist.</p><p>Dadurch werden offene Verbindungsöffnungen zuverlässig abgedeckt, sodass das System geschlossen bleibt und ein einheitliches, sauberes Gesamtbild entsteht. Gleichzeitig werden die Anschlussstellen geschützt und optisch sauber abgeschlossen.</p><p><strong>Die Verbindungsabdeckung ist nicht zwingend erforderlich und dient in erster Linie der optischen Vollständigkeit des Systems.</strong></p>",
+            "row_content": "<p>Die Ameisenarena Planet 2C ist eine geräumigere Arena unseres modularen Ameisennestsystems und misst 13 × 13 cm. Mit ihren zwei integrierten Anschlüssen lässt sie sich gleichzeitig mit zwei weiteren Modulen, Schläuchen oder Reagenzgläsern verbinden – ideal für flexible, größere Setups.</p><p>Die passenden Anschlüsse sind im Lieferumfang enthalten, sodass die Arena direkt einsatzbereit ist.</p>",
             "page": ""
           }
         },
@@ -95,7 +95,7 @@
           "settings": {
             "heading": "Lieferumfang",
             "icon": "box",
-            "row_content": "<ul><li>1 × Verbindungs-Abdeckung</li></ul>",
+            "row_content": "<ul><li>1 × Ameisenarena Planet 2C (13 × 13 cm)</li><li>2 × Anschluss</li></ul>",
             "page": ""
           }
         },
@@ -107,11 +107,31 @@
             "row_content": "<p><a href=\"https://cdn.shopify.com/s/files/1/0920/9597/1670/files/Sicherheitshinweise_Antmeup_GPSR.pdf?v=1783195450\" target=\"_blank\" rel=\"noopener\">Sicherheitshinweise &amp; Produktdatenblatt (PDF) herunterladen</a></p>",
             "page": ""
           }
+        },
+        "collapsible_row_features2c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Features",
+            "icon": "clipboard",
+            "row_content": "<ul><li>Grundfläche von 13 × 13 cm</li><li>Zwei integrierte Anschlüsse für Nestverbinder, Schlauch- oder Reagenzglasverbinder</li><li>Vollständig in das modulare Ameisennestsystem integrierbar</li><li>Ideal für größere oder verzweigte Setups mit mehreren Kolonieteilen</li><li>Offene Bauweise für gute Beobachtung der Ameisen</li><li>Robuste Verarbeitung im 3D-Druck-Verfahren (PLA)</li><li>Einfache Reinigung und Wartung</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_hinweis2c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hinweis",
+            "icon": "eye",
+            "row_content": "<ul><li>Die Arena wird im 3D-Druck-Verfahren aus PLA gefertigt.</li><li>Das Produkt keinen Temperaturen über 40 °C aussetzen, da sich das Material verformen kann.</li><li>Zur Reinigung ausschließlich lauwarmes Wasser verwenden.</li><li>Keine aggressiven Reinigungsmittel verwenden.</li></ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_PF3Vz9",
+        "collapsible_row_features2c",
         "collapsible_row_Tt73nY",
+        "collapsible_row_hinweis2c",
         "collapsible_row_pdfinfo"
       ],
       "name": "t:sections.collapsible_content.presets.name",
