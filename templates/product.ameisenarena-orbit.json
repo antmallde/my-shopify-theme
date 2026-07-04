@@ -99,7 +99,7 @@
           "settings": {
             "heading": "Features",
             "icon": "clipboard",
-            "row_content": "<ul><li>Großzügige Nestfläche von 16 × 16 cm</li><li>Modulares und erweiterbares Nestsystem</li><li>Individuell absperrbare Ein- und Ausgänge</li><li>Integrierter Wasserbehälter mit ca. 15 ml Fassungsvermögen</li><li>Gleichmäßige Befeuchtung über integriertes Netzsystem</li><li>Transparente Acrylglas-Abdeckung für optimale Einsicht</li><li>Sicherheitsmechanismus für korrekt positionierte Schieber und Verschlüsse</li><li>Einfache Wartung und Nachbefeuchtung</li><li>Geeignet als Erweiterungsmodul für zahlreiche Ameisenarten</li><li>Modernes und hochwertiges Design</li><li>Hergestellt aus PLA</li></ul>",
+            "row_content": "<ul><li>Kompakte Grundfläche von 8 × 8 cm</li><li>Integrierter Anschluss für Nestverbinder, Schlauch- oder Reagenzglasverbinder</li><li>Vollständig in das modulare Ameisennestsystem integrierbar</li><li>Ideal als Einstiegs- oder Erweiterungsarena für kleinere Kolonien</li><li>Offene Bauweise für gute Beobachtung der Ameisen</li><li>Robuste Verarbeitung im 3D-Druck-Verfahren (PLA)</li><li>Leichtes und platzsparendes Design</li><li>Einfache Reinigung und Wartung</li></ul>",
             "page": ""
           }
         },
@@ -117,7 +117,16 @@
           "settings": {
             "heading": "Hinweis",
             "icon": "eye",
-            "row_content": "<ul><li>Das Nest wird aus PLA, gips und Sand gefertigt.</li><li>Das Produkt keinen Temperaturen über 40 °C aussetzen, da sich das Material verformen kann.</li><li>Zur Reinigung ausschließlich lauwarmes Wasser verwenden.</li><li>Keine aggressiven Reinigungsmittel oder hohe Temperaturen verwenden.</li><li>Das Wasserreservoir nicht überfüllen, um eine optimale Funktion des Befeuchtungssystems sicherzustellen.</li></ul>",
+            "row_content": "<ul><li>Die Arena wird im 3D-Druck-Verfahren aus PLA gefertigt.</li><li>Das Produkt keinen Temperaturen über 40 °C aussetzen, da sich das Material verformen kann.</li><li>Zur Reinigung ausschließlich lauwarmes Wasser verwenden.</li><li>Keine aggressiven Reinigungsmittel verwenden.</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pdfinfo": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Produktdatenblatt",
+            "icon": "lock",
+            "row_content": "<p>Hier findest du in Kürze das offizielle Produktdatenblatt mit allen gesetzlich vorgeschriebenen Sicherheits- und Herstellerinformationen gemäß EU-Vorgaben (GPSR) zum Download.</p>",
             "page": ""
           }
         }
@@ -126,7 +135,8 @@
         "collapsible_row_UPwiWQ",
         "collapsible_row_U9c7zf",
         "collapsible_row_nfWP6L",
-        "collapsible_row_itLPiC"
+        "collapsible_row_itLPiC",
+        "collapsible_row_pdfinfo"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
