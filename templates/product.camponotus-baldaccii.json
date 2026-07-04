@@ -1,0 +1,142 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "sku_XMfP6x": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "inventory_L9fBwU": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 0,
+            "show_inventory_quantity": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "sku_XMfP6x",
+        "variant_picker",
+        "inventory_L9fBwU",
+        "quantity_selector",
+        "buy_buttons",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "mobile_thumbnails": "show",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_wf7yhV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xLrc9Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beschreibung",
+            "heading_size": "h1"
+          }
+        },
+        "text_YFDmHV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Name:</strong> Camponotus baldaccii<br/><strong>Herkunft:</strong> Südosteuropa (u. a. Italien, Griechenland, Türkei)<br/><strong>Königin:</strong> ca. 14 – 17 mm<br/><strong>Arbeiterinnen:</strong> Minor ca. 6 – 11 mm, Major ca. 11 – 13 mm<br/><strong>Nahrung:</strong> Kohlenhydrate (Honig, Zuckerwasser), Proteine (Futterinsekten)<br/><strong>Luftfeuchtigkeit:</strong><br/>Arena: 30 – 50%<br/>Nest: 40 – 60%<br/><strong>Temperatur:</strong><br/>Arena: 24 – 28 Grad<br/>Nest: 22 – 26 Grad<br/><strong>Winterruhe:</strong> Keine zwingende Winterruhe, als mediterrane Art ist jedoch eine leichte Diapause-Phase im Winter üblich und empfehlenswert<br/><strong>Nestart:</strong> Gips- oder Ytong-Nester mit guter Belüftung<br/><strong>Koloniegröße:</strong> bis ca. 5.000 Arbeiterinnen (monogyn)</p><p><strong>Vorteile und Nachteile der Art Camponotus baldaccii:</strong></p><p><strong>Vorteile:</strong><br/>Eine attraktive, braun-orange gefärbte Rossameisen-Art mit moderatem Pflegeaufwand – gut geeignet für Halter mit etwas Erfahrung.</p><p><strong>Nachteile:</strong><br/>Benötigt etwas mehr Aufmerksamkeit bei Temperatur und Luftfeuchtigkeit als reine Einsteigerarten.</p><p><strong>Haltung:</strong><br/>Reagenzglasnest zu Beginn, später Nest mit guter Belüftung und Arena von mind. 20×20 cm.</p><p><strong>Fütterung:</strong><br/>Honig oder Zuckerwasser sowie regelmäßig Futterinsekten anbieten.</p><p><strong>Winterruhe:</strong><br/>Eine leichte, winterliche Kühlphase ist für diese mediterrane Art empfehlenswert, auch wenn keine strenge Winterruhe zwingend erforderlich ist.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xLrc9Q",
+        "text_YFDmHV"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 52
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "Für dich Empfohlen",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_wf7yhV",
+    "related-products"
+  ]
+}

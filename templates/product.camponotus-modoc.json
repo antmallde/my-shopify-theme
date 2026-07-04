@@ -1,0 +1,142 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "sku_XMfP6x": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "inventory_L9fBwU": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 0,
+            "show_inventory_quantity": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "sku_XMfP6x",
+        "variant_picker",
+        "inventory_L9fBwU",
+        "quantity_selector",
+        "buy_buttons",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "mobile_thumbnails": "show",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_wf7yhV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xLrc9Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beschreibung",
+            "heading_size": "h1"
+          }
+        },
+        "text_YFDmHV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Name:</strong> Camponotus modoc<br/><strong>Herkunft:</strong> Westliches Nordamerika (u. a. British Columbia bis Kalifornien)<br/><strong>Königin:</strong> ca. 18 – 20 mm<br/><strong>Arbeiterinnen:</strong> Minor ca. 6 – 8 mm, Major bis ca. 16 mm<br/><strong>Nahrung:</strong> Kohlenhydrate (Honig, Zuckerwasser), Proteine (Futterinsekten)<br/><strong>Luftfeuchtigkeit:</strong><br/>Arena: 30 – 50%<br/>Nest: Brut bevorzugt höhere Feuchte als Puppen, ein Feuchtegefälle im Nest ist empfehlenswert<br/><strong>Temperatur:</strong> Arbeiterinnen bevorzugen kühlere Bereiche, die Brut wärmere – am besten mit Temperaturgefälle im Nest arbeiten<br/><strong>Winterruhe:</strong> Ja, mindestens 3 – 4 Monate bei kühlen, frostfreien Temperaturen<br/><strong>Nestart:</strong> Totholznester (morsches Holz, Baumstümpfe), feuchtigkeitsliebend<br/><strong>Koloniegröße:</strong> 10.000 – 20.000 Arbeiterinnen, in Einzelfällen auch deutlich mehr</p><p><strong>Vorteile und Nachteile der Art Camponotus modoc:</strong></p><p><strong>Vorteile:</strong><br/>Eine große, beeindruckende nordamerikanische Rossameise mit stattlichen Kolonien und interessantem Kastensystem (Minor- und Majorarbeiterinnen).</p><p><strong>Nachteile:</strong><br/>Benötigt eine zuverlässige, mehrmonatige Winterruhe – während dieser Zeit muss regelmäßig auf ausreichend Wasser geachtet werden. Als größere Art wird mit der Zeit viel Platz benötigt.</p><p><strong>Haltung:</strong><br/>Reagenzglasnest zu Beginn, später Totholz- oder Holzimitat-Nest mit Temperatur- und Feuchtegefälle, damit sich Arbeiterinnen und Brut ihren bevorzugten Bereich selbst aussuchen können.</p><p><strong>Fütterung:</strong><br/>Honig oder Zuckerwasser sowie regelmäßig Futterinsekten anbieten.</p><p><strong>Winterruhe:</strong><br/>Benötigt eine klassische Winterruhe von mindestens 3 – 4 Monaten an einem kühlen, frostfreien Ort. Wasserversorgung während dieser Zeit regelmäßig kontrollieren.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xLrc9Q",
+        "text_YFDmHV"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 52
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "Für dich Empfohlen",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_wf7yhV",
+    "related-products"
+  ]
+}
