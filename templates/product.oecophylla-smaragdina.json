@@ -1,0 +1,142 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "sku_XMfP6x": {
+          "type": "sku",
+          "settings": {
+            "text_style": "body"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "inventory_L9fBwU": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 0,
+            "show_inventory_quantity": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "sku_XMfP6x",
+        "variant_picker",
+        "inventory_L9fBwU",
+        "quantity_selector",
+        "buy_buttons",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "mobile_thumbnails": "show",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_wf7yhV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xLrc9Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beschreibung",
+            "heading_size": "h1"
+          }
+        },
+        "text_YFDmHV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Name:</strong> Oecophylla smaragdina (Weberameise)<br/><strong>Herkunft:</strong> Süd- und Südostasien, Australien<br/><strong>Königin:</strong> ca. 16 – 18 mm, hellgrün-bräunlich gefärbt<br/><strong>Arbeiterinnen:</strong> ca. 8 – 12 mm, polymorph (Major- und Minorarbeiterinnen)<br/><strong>Nahrung:</strong> Kohlenhydrate (Honigtau, Zuckerwasser), Proteine (Insekten)<br/><strong>Luftfeuchtigkeit:</strong><br/>Arena: 30 – 50%<br/>Blätternest: 60 – 80%<br/><strong>Temperatur:</strong><br/>Arena: 21 – 35 Grad<br/>Nest: 24 – 28 Grad<br/><strong>Winterruhe:</strong> Nein<br/><strong>Nestart:</strong> Blätternester – die Ameisen \"weben\" mit Hilfe von Larvenseide lebende Blätter zu Nestern zusammen, daher werden lebende Pflanzen benötigt<br/><strong>Koloniegröße:</strong> in der Natur mehrere Hunderttausend Arbeiterinnen, im Hobby deutlich kleiner</p><p><strong>Vorteile und Nachteile der Art Oecophylla smaragdina:</strong></p><p><strong>Vorteile:</strong><br/>Absolut faszinierendes Nestbauverhalten – die Kolonie webt eigene Blätternester. Eine sehr aktive und eindrucksvolle Art.</p><p><strong>Nachteile:</strong><br/>Benötigt lebende Pflanzen zur Nestanlage. Die Art verteidigt sich aggressiv mit kräftigem Biss und Säureausstoß, daher nur für erfahrene Halter empfehlenswert.</p><p><strong>Haltung:</strong><br/>Anfangs ein Reagenzglasnest, später eine Arena mit lebenden Pflanzen (z. B. Efeu) zum Weben eigener Nester. Konstant warm halten.</p><p><strong>Fütterung:</strong><br/>Zuckerwasser oder Honig sowie regelmäßig Proteine wie Fliegen oder Heimchen anbieten.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xLrc9Q",
+        "text_YFDmHV"
+      ],
+      "custom_css": [],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 52
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "Für dich Empfohlen",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_wf7yhV",
+    "related-products"
+  ]
+}
