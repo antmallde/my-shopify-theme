@@ -1,0 +1,101 @@
+
+<div class="widerruf-formular">
+
+<h1>Vertrag widerrufen</h1>
+
+<p>
+Über dieses Formular können Sie Ihren Widerruf elektronisch erklären.
+Nach Absenden erhalten Sie eine Eingangsbestätigung per E-Mail.
+</p>
+
+{% form 'contact' %}
+
+<label>Bestellnummer *</label>
+<input
+  type="text"
+  name="contact[Bestellnummer]"
+  required
+>
+
+<label>E-Mail *</label>
+<input
+  type="email"
+  name="contact[email]"
+  required
+>
+
+<label>E-Mail (wiederholen) *</label>
+<input
+  type="email"
+  name="contact[E-Mail Wiederholung]"
+  required
+>
+
+<label>Vorname</label>
+<input
+  type="text"
+  name="contact[Vorname]"
+>
+
+<label>Nachname</label>
+<input
+  type="text"
+  name="contact[Nachname]"
+>
+
+<input
+  type="hidden"
+  name="contact[Widerruf]"
+  value="Ja"
+>
+
+<button type="submit" class="widerruf-button">
+  Widerruf bestätigen
+</button>
+
+{% endform %}
+
+</div>
+
+<style>
+
+.widerruf-formular {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+}
+
+.widerruf-formular label {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.widerruf-formular input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.widerruf-button {
+  display: block;
+  width: 100%;
+  margin-top: 25px;
+  padding: 14px;
+  background: #000;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.widerruf-button:hover {
+  opacity: 0.9;
+}
+
+</style>
+
