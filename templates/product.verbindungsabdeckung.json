@@ -25,6 +25,10 @@
             "swatch_shape": "circle"
           }
         },
+        "sw_back_in_stock_product_restore_email_6KrWHQ": {
+          "type": "shopify://apps/sw-back-in-stock/blocks/product-restore-email/b190bced-3b7b-47da-a05f-6ea4821c3a77",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -52,6 +56,7 @@
         "title",
         "price",
         "variant_picker",
+        "sw_back_in_stock_product_restore_email_6KrWHQ",
         "quantity_selector",
         "aov_ai_bundle_offer_inline_cndtMC",
         "buy_buttons",
@@ -73,33 +78,24 @@
         "padding_bottom": 12
       }
     },
-    "collapsible_content_x7DmXa": {
+    "collapsible_content_rVNHCz": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_HjBkpF": {
+        "collapsible_row_PF3Vz9": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Beschreibung",
             "icon": "chat_bubble",
-            "row_content": "<p>Das Reagenzglasgründungsnest ist speziell für die sichere und kontrollierte Gründung von Ameisenkolonien entwickelt.</p><p>Im vorderen Bereich befindet sich eine integrierte Gipskammer, die als Nestbereich dient und durch ihre Struktur ein natürliches Mikroklima unterstützt. Der hintere Bereich fungiert als Wasserspeicher, der jederzeit über eine Öffnung nachgefüllt werden kann und so eine langfristig stabile Feuchtigkeitsversorgung gewährleistet. Eine Schicht aus Sand sorgt für zusätzliche Stabilität und ein natürliches Umfeld innerhalb des Systems.</p><p>Zum Schutz und zur Dunkelhaltung der Kolonie ist eine Abdeckkappe enthalten, die das Reagenzglas vollständig abdunkelt und gleichzeitig vor äußeren Störungen schützt.</p>",
+            "row_content": "<p>Die Verbindungsabdeckung dient zum sauberen Verschließen ungenutzter Anschlussstellen innerhalb des modularen Ameisennestsystems. Sie wird eingesetzt, wenn an einem Modul kein Nestverbinder, Schlauchverbinder oder Reagenzglasverbinder angeschlossen ist.</p><p>Dadurch werden offene Verbindungsöffnungen zuverlässig abgedeckt, sodass das System geschlossen bleibt und ein einheitliches, sauberes Gesamtbild entsteht. Gleichzeitig werden die Anschlussstellen geschützt und optisch sauber abgeschlossen.</p><p><strong>Die Verbindungsabdeckung ist nicht zwingend erforderlich und dient in erster Linie der optischen Vollständigkeit des Systems.</strong></p>",
             "page": ""
           }
         },
-        "collapsible_row_XcQXnW": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Features",
-            "icon": "clipboard",
-            "row_content": "<ul><li>Reagenzglasgründungsnest mit integrierter Gipskammer</li><li>Hinterer Wasserspeicher zum einfachen Nachfüllen</li><li>Sandfüllung für zusätzliche Stabilität und Struktur</li><li>Abdeckkappe zur vollständigen Abdunkelung</li><li>Ideal für stressfreie Koloniegründung</li><li>Wiederverwendbares, stabiles Außenmodul</li><li>Abdeckung Hergestellt aus PLA</li></ul>",
-            "page": ""
-          }
-        },
-        "collapsible_row_EPrYJP": {
+        "collapsible_row_Tt73nY": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Lieferumfang",
             "icon": "box",
-            "row_content": "<ul><li>1x Abdeckung</li><li>Reagenzglasnest</li></ul>",
+            "row_content": "<ul><li>1 × Verbindungs-Abdeckung</li></ul>",
             "page": ""
           }
         },
@@ -114,9 +110,8 @@
         }
       },
       "block_order": [
-        "collapsible_row_HjBkpF",
-        "collapsible_row_XcQXnW",
-        "collapsible_row_EPrYJP",
+        "collapsible_row_PF3Vz9",
+        "collapsible_row_Tt73nY",
         "collapsible_row_pdfinfo"
       ],
       "name": "t:sections.collapsible_content.presets.name",
@@ -135,7 +130,7 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_TDM4KB": {
+    "featured_collection_qDY8kF": {
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
@@ -205,8 +200,8 @@
   },
   "order": [
     "main",
-    "collapsible_content_x7DmXa",
-    "featured_collection_TDM4KB",
+    "collapsible_content_rVNHCz",
+    "featured_collection_qDY8kF",
     "1766926854a7fd94ea",
     "related-products"
   ]

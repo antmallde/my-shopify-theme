@@ -1,1 +1,344 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"text","settings":{"text":"","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","swatch_shape":"circle"}},"quantity_selector":{"type":"quantity_selector","settings":{}},"aov_ai_bundle_offer_inline_cndtMC":{"type":"shopify:\/\/apps\/aov-ai-bundle\/blocks\/offer-inline\/0335d423-143c-4ad7-b224-99a1db74a9ee","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"share":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["vendor","title","price","variant_picker","quantity_selector","aov_ai_bundle_offer_inline_cndtMC","buy_buttons","share"],"settings":{"enable_sticky_info":true,"color_scheme":"scheme-1","media_size":"small","constrain_to_viewport":true,"media_fit":"contain","gallery_layout":"thumbnail_slider","mobile_thumbnails":"show","media_position":"left","image_zoom":"lightbox","hide_variants":true,"enable_video_looping":false,"padding_top":36,"padding_bottom":12}},"collapsible_content_T7Xqym":{"type":"collapsible-content","blocks":{"collapsible_row_wwNEPk":{"type":"collapsible_row","settings":{"heading":"Beschreibung","icon":"chat_bubble","row_content":"<p>Das Core-Modul bildet das zentrale Element des modularen Nestsystems und eignet sich ideal als Ausgangspunkt oder Kernbereich für den Aufbau individueller Ameisenanlagen. Das handgefertigte 3D-Druck-Gipsnest vereint modernes Design mit hoher Funktionalität und bietet durch die kompakte Nestfläche von 8 × 8 cm eine effiziente Nutzung des verfügbaren Raums bei gleichzeitig hervorragender Beobachtbarkeit der Kolonie.<\/p><p>Die offen gestalteten Kammern ermöglichen eine hervorragende Beobachtung der Kolonie, während die transparente Acrylglas-Abdeckung Schutz bietet und gleichzeitig jederzeit freie Sicht auf Ameisen, Brut und Nestaktivitäten gewährleistet.<\/p><p>Für ein ausgeglichenes Nestklima sorgt das integrierte Befeuchtungssystem mit einem Wasserreservoir von ca. 15 ml Fassungsvermögen. Die Feuchtigkeit wird über ein spezielles Netzsystem im Boden gleichmäßig im Nest verteilt und gewährleistet eine zuverlässige Versorgung über einen längeren Zeitraum.<\/p><p>Das Core-Modul ist vollständig in modulare Nestsysteme integrierbar und kann über Nest-Verbinder flexibel erweitert werden. Individuell absperrbare Ein- und Ausgänge ermöglichen eine gezielte Steuerung einzelner Nestbereiche.<\/p><p>Ein besonderes Sicherheitsmerkmal ist das integrierte Verschlusssystem: Befinden sich die Schieber oder Türen nicht vollständig in der vorgesehenen Position (komplett geöffnet oder komplett geschlossen), kann die Abdeckung nicht korrekt aufgesetzt werden. Dadurch wird sichergestellt, dass alle Verschlüsse ordnungsgemäß positioniert sind.<\/p>","page":""}},"collapsible_row_pDktNh":{"type":"collapsible_row","settings":{"heading":"Features","icon":"check_mark","row_content":"<ul><li>Nestfläche von 8 × 8 cm<\/li><li>Modulares und erweiterbares Nestsystem<\/li><li>Individuell absperrbare Ein- und Ausgänge<\/li><li>Integrierter Wasserbehälter mit ca. 15 ml Fassungsvermögen<\/li><li>Gleichmäßige Befeuchtung über integriertes Netzsystem<\/li><li>Transparente Acrylglas-Abdeckung für optimale Einsicht<\/li><li>Sicherheitsmechanismus für korrekt positionierte Schieber und Verschlüsse<\/li><li>Einfache Wartung und Nachbefeuchtung<\/li><li>Geeignet als Kernmodul für zahlreiche Ameisenarten<\/li><li>Modernes und hochwertiges Design<\/li><li>Hergestellt aus PLA<\/li><\/ul>","page":""}},"collapsible_row_mBXhmp":{"type":"collapsible_row","settings":{"heading":"Lieferumfang","icon":"box","row_content":"<ul><li>1 × Core-Modul in gewählter Ausführung<\/li><li>1 × Verdunkelungs-Abdeckung<\/li><\/ul>","page":""}},"collapsible_row_nNjYKe":{"type":"collapsible_row","settings":{"heading":"Hinweis","icon":"check_mark","row_content":"<ul><li>Das Nest wird aus PLA, Gips und Sand gefertigt.<\/li><li>Das Produkt keinen Temperaturen über 40 °C aussetzen, da sich das Material verformen kann.<\/li><li>Zur Reinigung ausschließlich lauwarmes Wasser verwenden.<\/li><li>Keine aggressiven Reinigungsmittel oder hohe Temperaturen verwenden.<\/li><li>Das Wasserreservoir nicht überfüllen, um eine optimale Funktion des Befeuchtungssystems sicherzustellen.<\/li><\/ul>","page":""}}},"block_order":["collapsible_row_wwNEPk","collapsible_row_pDktNh","collapsible_row_mBXhmp","collapsible_row_nNjYKe"],"name":"t:sections.collapsible_content.presets.name","settings":{"caption":"","heading":"Produktinformationen","heading_size":"h1","heading_alignment":"center","layout":"section","container_color_scheme":"","color_scheme":"scheme-1","open_first_collapsible_row":true,"image_ratio":"adapt","desktop_layout":"image_second","padding_top":36,"padding_bottom":36}},"image_with_text_dcAajM":{"type":"image-with-text","blocks":{"heading_c8wrir":{"type":"heading","settings":{"heading":"Nestverbinder","heading_size":"h2"}},"text_KMtrzj":{"type":"text","settings":{"text":"<p>Der Nestverbinder dient zur sicheren und stabilen Verbindung einzelner Module innerhalb des modularen Nestsystems. Er ermöglicht eine flexible Erweiterung und Kombination verschiedener Nestmodule und sorgt für einen dichten, zuverlässigen Übergang zwischen den einzelnen Elementen.<\/p><p>Durch die integrierte Plexiglas-Abdeckung bleibt der Übergangsbereich jederzeit einsehbar, während die stabile Konstruktion eine sichere Verbindung der Module gewährleistet.<\/p><p>Der Nestverbinder ist kompakt aufgebaut und speziell für den modularen Aufbau der Nestsysteme ausgelegt.<\/p>","text_style":"body"}}},"block_order":["heading_c8wrir","text_KMtrzj"],"name":"Nestverbinder","settings":{"image":"shopify:\/\/shop_images\/IMG_20260530_151554276.jpg","height":"adapt","desktop_image_width":"small","layout":"image_first","image_behavior":"none","content_layout":"no-overlap","desktop_content_position":"top","desktop_content_alignment":"left","mobile_content_alignment":"left","section_color_scheme":"","color_scheme":"","padding_top":36,"padding_bottom":36}},"image_with_text_yfYfwb":{"type":"image-with-text","blocks":{"heading_JFQnFp":{"type":"heading","settings":{"heading":"Verbindungsabdeckung","heading_size":"h2"}},"text_dfiEq3":{"type":"text","settings":{"text":"<p>Die Verbindungsabdeckung dient zum sauberen Verschließen ungenutzter Anschlussstellen innerhalb des modularen Ameisennestsystems. Sie wird eingesetzt, wenn an einem Modul kein Nestverbinder, Schlauchverbinder oder Reagenzglasverbinder angeschlossen ist.<\/p><p>Dadurch werden offene Verbindungsöffnungen zuverlässig abgedeckt, sodass das System geschlossen bleibt und ein einheitliches, sauberes Gesamtbild entsteht. Gleichzeitig werden die Anschlussstellen geschützt und optisch sauber abgeschlossen.<\/p><p><strong>Die Verbindungsabdeckung ist nicht zwingend erforderlich und dient in erster Linie der optischen Vollständigkeit des Systems.<\/strong><\/p>","text_style":"body"}}},"block_order":["heading_JFQnFp","text_dfiEq3"],"name":"Verbindungsabdeckung","settings":{"image":"shopify:\/\/shop_images\/IMG-20260530-WA0049.jpg","height":"adapt","desktop_image_width":"small","layout":"text_first","image_behavior":"none","content_layout":"no-overlap","desktop_content_position":"top","desktop_content_alignment":"left","mobile_content_alignment":"left","section_color_scheme":"","color_scheme":"","padding_top":36,"padding_bottom":36}},"image_with_text_HGbNfR":{"type":"image-with-text","blocks":{"heading_kEjtxj":{"type":"heading","settings":{"heading":"Schlauch- und Reagenzgalsverbinder","heading_size":"h2"}},"text_yRzckr":{"type":"text","settings":{"text":"<p>Der Schlauch- und Reagenzglasverbinder dient zur sicheren Verbindung von 16 mm Außendurchmesser Schläuchen sowie 16 mm Reagenzgläsern innerhalb des modularen Ameisensystems. Er ermöglicht eine stabile und dichte Kopplung verschiedener Komponenten und sorgt für einen reibungslosen Übergang zwischen Nest, Schlauchsystem und Reagenzglassetup.<\/p><p>Durch die präzise Passform gewährleistet der Verbinder einen festen Halt und eine zuverlässige Verbindung ohne zusätzliche Hilfsmittel.<\/p>","text_style":"body"}}},"block_order":["heading_kEjtxj","text_yRzckr"],"name":"Schlauch- und Reagenzgalsverbinder","settings":{"image":"shopify:\/\/shop_images\/IMG_20260530_151347679.jpg","height":"adapt","desktop_image_width":"small","layout":"image_first","image_behavior":"none","content_layout":"no-overlap","desktop_content_position":"top","desktop_content_alignment":"left","mobile_content_alignment":"left","section_color_scheme":"","color_scheme":"","padding_top":36,"padding_bottom":36}},"featured_collection_rebcaE":{"type":"featured-collection","name":"t:sections.featured-collection.presets.name","settings":{"collection":"modulare-ameisennester","products_to_show":4,"title":"Für sie empfohlen...","heading_size":"h1","description":"","show_description":false,"description_style":"body","columns_desktop":4,"enable_desktop_slider":false,"full_width":false,"show_view_all":true,"view_all_style":"solid","color_scheme":"","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"quick_add":"standard","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"1766926854a7fd94ea":{"type":"apps","blocks":{"judge_me_reviews_review_widget_6jHDib":{"type":"shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8","settings":{"review_data":"sample_data","max_width":600,"show_shop_reviews":false,"empty_state":"empty_widget"}}},"block_order":["judge_me_reviews_review_widget_6jHDib"],"settings":{"include_margins":true}},"related-products":{"type":"related-products","disabled":true,"settings":{"heading":"Für dich Empfohlen","heading_size":"h2","products_to_show":3,"columns_desktop":3,"columns_mobile":"2","color_scheme":"scheme-4","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"padding_top":36,"padding_bottom":28}}},"order":["main","collapsible_content_T7Xqym","image_with_text_dcAajM","image_with_text_yfYfwb","image_with_text_HGbNfR","featured_collection_rebcaE","1766926854a7fd94ea","related-products"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "aov_ai_bundle_offer_inline_cndtMC": {
+          "type": "shopify://apps/aov-ai-bundle/blocks/offer-inline/0335d423-143c-4ad7-b224-99a1db74a9ee",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "aov_ai_bundle_offer_inline_cndtMC",
+        "buy_buttons",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "mobile_thumbnails": "show",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "collapsible_content_T7Xqym": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_wwNEPk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Beschreibung",
+            "icon": "chat_bubble",
+            "row_content": "<p>Das Core-Modul bildet das zentrale Element des modularen Nestsystems und eignet sich ideal als Ausgangspunkt oder Kernbereich für den Aufbau individueller Ameisenanlagen. Das handgefertigte 3D-Druck-Gipsnest vereint modernes Design mit hoher Funktionalität und bietet durch die kompakte Nestfläche von 8 × 8 cm eine effiziente Nutzung des verfügbaren Raums bei gleichzeitig hervorragender Beobachtbarkeit der Kolonie.</p><p>Die offen gestalteten Kammern ermöglichen eine hervorragende Beobachtung der Kolonie, während die transparente Acrylglas-Abdeckung Schutz bietet und gleichzeitig jederzeit freie Sicht auf Ameisen, Brut und Nestaktivitäten gewährleistet.</p><p>Für ein ausgeglichenes Nestklima sorgt das integrierte Befeuchtungssystem mit einem Wasserreservoir von ca. 15 ml Fassungsvermögen. Die Feuchtigkeit wird über ein spezielles Netzsystem im Boden gleichmäßig im Nest verteilt und gewährleistet eine zuverlässige Versorgung über einen längeren Zeitraum.</p><p>Das Core-Modul ist vollständig in modulare Nestsysteme integrierbar und kann über Nest-Verbinder flexibel erweitert werden. Individuell absperrbare Ein- und Ausgänge ermöglichen eine gezielte Steuerung einzelner Nestbereiche.</p><p>Ein besonderes Sicherheitsmerkmal ist das integrierte Verschlusssystem: Befinden sich die Schieber oder Türen nicht vollständig in der vorgesehenen Position (komplett geöffnet oder komplett geschlossen), kann die Abdeckung nicht korrekt aufgesetzt werden. Dadurch wird sichergestellt, dass alle Verschlüsse ordnungsgemäß positioniert sind.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pDktNh": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Features",
+            "icon": "check_mark",
+            "row_content": "<ul><li>Nestfläche von 8 × 8 cm</li><li>Modulares und erweiterbares Nestsystem</li><li>Individuell absperrbare Ein- und Ausgänge</li><li>Integrierter Wasserbehälter mit ca. 15 ml Fassungsvermögen</li><li>Gleichmäßige Befeuchtung über integriertes Netzsystem</li><li>Transparente Acrylglas-Abdeckung für optimale Einsicht</li><li>Sicherheitsmechanismus für korrekt positionierte Schieber und Verschlüsse</li><li>Einfache Wartung und Nachbefeuchtung</li><li>Geeignet als Kernmodul für zahlreiche Ameisenarten</li><li>Modernes und hochwertiges Design</li><li>Hergestellt aus PLA</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mBXhmp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lieferumfang",
+            "icon": "box",
+            "row_content": "<ul><li>1 × Core-Modul in gewählter Ausführung</li><li>1 × Verdunkelungs-Abdeckung</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_nNjYKe": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hinweis",
+            "icon": "check_mark",
+            "row_content": "<ul><li>Das Nest wird aus PLA, Gips und Sand gefertigt.</li><li>Das Produkt keinen Temperaturen über 40 °C aussetzen, da sich das Material verformen kann.</li><li>Zur Reinigung ausschließlich lauwarmes Wasser verwenden.</li><li>Keine aggressiven Reinigungsmittel oder hohe Temperaturen verwenden.</li><li>Das Wasserreservoir nicht überfüllen, um eine optimale Funktion des Befeuchtungssystems sicherzustellen.</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pdfinfo": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Produktdatenblatt",
+            "icon": "lock",
+            "row_content": "<p><a href=\"https://cdn.shopify.com/s/files/1/0920/9597/1670/files/Sicherheitshinweise_Antmeup_GPSR.pdf?v=1783195450\" target=\"_blank\" rel=\"noopener\">Sicherheitshinweise &amp; Produktdatenblatt (PDF) herunterladen</a></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_wwNEPk",
+        "collapsible_row_pDktNh",
+        "collapsible_row_mBXhmp",
+        "collapsible_row_nNjYKe",
+        "collapsible_row_pdfinfo"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Produktinformationen",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "container_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_dcAajM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_c8wrir": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nestverbinder",
+            "heading_size": "h2"
+          }
+        },
+        "text_KMtrzj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Nestverbinder dient zur sicheren und stabilen Verbindung einzelner Module innerhalb des modularen Nestsystems. Er ermöglicht eine flexible Erweiterung und Kombination verschiedener Nestmodule und sorgt für einen dichten, zuverlässigen Übergang zwischen den einzelnen Elementen.</p><p>Durch die integrierte Plexiglas-Abdeckung bleibt der Übergangsbereich jederzeit einsehbar, während die stabile Konstruktion eine sichere Verbindung der Module gewährleistet.</p><p>Der Nestverbinder ist kompakt aufgebaut und speziell für den modularen Aufbau der Nestsysteme ausgelegt.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_c8wrir",
+        "text_KMtrzj"
+      ],
+      "name": "Nestverbinder",
+      "settings": {
+        "image": "shopify://shop_images/IMG_20260530_151554276.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_yfYfwb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_JFQnFp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Verbindungsabdeckung",
+            "heading_size": "h2"
+          }
+        },
+        "text_dfiEq3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Verbindungsabdeckung dient zum sauberen Verschließen ungenutzter Anschlussstellen innerhalb des modularen Ameisennestsystems. Sie wird eingesetzt, wenn an einem Modul kein Nestverbinder, Schlauchverbinder oder Reagenzglasverbinder angeschlossen ist.</p><p>Dadurch werden offene Verbindungsöffnungen zuverlässig abgedeckt, sodass das System geschlossen bleibt und ein einheitliches, sauberes Gesamtbild entsteht. Gleichzeitig werden die Anschlussstellen geschützt und optisch sauber abgeschlossen.</p><p><strong>Die Verbindungsabdeckung ist nicht zwingend erforderlich und dient in erster Linie der optischen Vollständigkeit des Systems.</strong></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JFQnFp",
+        "text_dfiEq3"
+      ],
+      "name": "Verbindungsabdeckung",
+      "settings": {
+        "image": "shopify://shop_images/IMG-20260530-WA0049.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_HGbNfR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kEjtxj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Schlauch- und Reagenzgalsverbinder",
+            "heading_size": "h2"
+          }
+        },
+        "text_yRzckr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Schlauch- und Reagenzglasverbinder dient zur sicheren Verbindung von 16 mm Außendurchmesser Schläuchen sowie 16 mm Reagenzgläsern innerhalb des modularen Ameisensystems. Er ermöglicht eine stabile und dichte Kopplung verschiedener Komponenten und sorgt für einen reibungslosen Übergang zwischen Nest, Schlauchsystem und Reagenzglassetup.</p><p>Durch die präzise Passform gewährleistet der Verbinder einen festen Halt und eine zuverlässige Verbindung ohne zusätzliche Hilfsmittel.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kEjtxj",
+        "text_yRzckr"
+      ],
+      "name": "Schlauch- und Reagenzgalsverbinder",
+      "settings": {
+        "image": "shopify://shop_images/IMG_20260530_151347679.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_rebcaE": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "modulare-ameisennester",
+        "products_to_show": 4,
+        "title": "Für sie empfohlen...",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1766926854a7fd94ea": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_6jHDib": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 600,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_6jHDib"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Für dich Empfohlen",
+        "heading_size": "h2",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-4",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible_content_T7Xqym",
+    "image_with_text_dcAajM",
+    "image_with_text_yfYfwb",
+    "image_with_text_HGbNfR",
+    "featured_collection_rebcaE",
+    "1766926854a7fd94ea",
+    "related-products"
+  ]
+}

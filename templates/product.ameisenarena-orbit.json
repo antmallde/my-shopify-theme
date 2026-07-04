@@ -126,7 +126,7 @@
           "settings": {
             "heading": "Produktdatenblatt",
             "icon": "lock",
-            "row_content": "<p>Hier findest du in Kürze das offizielle Produktdatenblatt mit allen gesetzlich vorgeschriebenen Sicherheits- und Herstellerinformationen gemäß EU-Vorgaben (GPSR) zum Download.</p>",
+            "row_content": "<p><a href=\"https://cdn.shopify.com/s/files/1/0920/9597/1670/files/Sicherheitshinweise_Antmeup_GPSR.pdf?v=1783195450\" target=\"_blank\" rel=\"noopener\">Sicherheitshinweise &amp; Produktdatenblatt (PDF) herunterladen</a></p>",
             "page": ""
           }
         }
