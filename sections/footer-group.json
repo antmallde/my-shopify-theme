@@ -25,14 +25,14 @@
           "type": "shopify://apps/eu-widerrufsbutton/blocks/withdrawal-button-inline/019e3842-e8eb-772d-9292-20f5ccbc0337",
           "settings": {
             "alignment": "left",
-            "margin_top": 0,
+            "margin_top": 60,
             "margin_bottom": 0,
             "button_text": "",
-            "full_width": true,
-            "size": "middle",
+            "full_width": false,
+            "size": "small",
             "border_radius": 4,
             "text_color": "#000000",
-            "background_color": "#FFFFFF"
+            "background_color": "#ffffff"
           }
         },
         "link_list_VCBD4V": {
