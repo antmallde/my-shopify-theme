@@ -1,1 +1,79 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"link_list_bznb3d":{"type":"link_list","settings":{"heading":"Rechtliches","menu":"footer"}},"link_list_VCBD4V":{"type":"link_list","settings":{"heading":"Lexikon","menu":"lexikon"}},"link_list_wVqXQB":{"type":"link_list","settings":{"heading":"Blockbeiträge","menu":"blockbeitrag"}}},"block_order":["link_list_bznb3d","link_list_VCBD4V","link_list_wVqXQB"],"custom_css":[],"settings":{"color_scheme":"scheme-4","newsletter_enable":true,"newsletter_heading":"Bekomme exklusive Einblicke bei AntMeUp und erhalte 10% Rabatt:","enable_follow_on_shop":true,"show_social":false,"enable_country_selector":false,"enable_language_selector":false,"payment_enable":false,"show_policy":false,"margin_top":0,"padding_top":80,"padding_bottom":8}}},"order":["footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_bznb3d": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Rechtliches",
+            "menu": "footer"
+          }
+        },
+        "eu_widerrufsbutton_withdrawal_button_inline_ffreNx": {
+          "type": "shopify://apps/eu-widerrufsbutton/blocks/withdrawal-button-inline/019e3842-e8eb-772d-9292-20f5ccbc0337",
+          "settings": {
+            "alignment": "left",
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "button_text": "",
+            "full_width": true,
+            "size": "middle",
+            "border_radius": 4,
+            "text_color": "#000000",
+            "background_color": "#FFFFFF"
+          }
+        },
+        "link_list_VCBD4V": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Lexikon",
+            "menu": "lexikon"
+          }
+        },
+        "link_list_wVqXQB": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Blockbeiträge",
+            "menu": "blockbeitrag"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_bznb3d",
+        "eu_widerrufsbutton_withdrawal_button_inline_ffreNx",
+        "link_list_VCBD4V",
+        "link_list_wVqXQB"
+      ],
+      "custom_css": [],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "newsletter_enable": true,
+        "newsletter_heading": "Bekomme exklusive Einblicke bei AntMeUp und erhalte 10% Rabatt:",
+        "enable_follow_on_shop": true,
+        "show_social": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 80,
+        "padding_bottom": 8
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
