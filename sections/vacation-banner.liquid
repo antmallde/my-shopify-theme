@@ -1,0 +1,43 @@
+{%- liquid
+  assign now_ts = 'now' | date: '%s'
+  assign start_ts = section.settings.start_ts
+  assign end_ts = section.settings.end_ts
+  assign show_banner = false
+  if now_ts >= start_ts and now_ts <= end_ts
+    assign show_banner = true
+  endif
+-%}
+{%- if show_banner and section.settings.message != blank -%}
+  <div class="vacation-banner" style="width:100%;background:#fff4e5;border-bottom:1px solid #f0c987;text-align:center;padding:10px 16px;font-size:14px;line-height:1.4;">
+    <span style="max-width:1200px;display:inline-block;">{{ section.settings.message }}</span>
+  </div>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "Urlaubs-Banner",
+  "settings": [
+    {
+      "type": "text",
+      "id": "message",
+      "label": "Banner-Text",
+      "default": "Wir sind vom 10.08. bis 22.08. im Urlaub – Bestellungen sind weiterhin möglich, der Versand erfolgt ab dem 23.08."
+    },
+    {
+      "type": "number",
+      "id": "start_ts",
+      "label": "Start (Unix-Timestamp)",
+      "default": 1786312800
+    },
+    {
+      "type": "number",
+      "id": "end_ts",
+      "label": "Ende (Unix-Timestamp)",
+      "default": 1787435999
+    }
+  ],
+  "enabled_on": {
+    "groups": ["header"]
+  }
+}
+{% endschema %}
