@@ -1,5 +1,5 @@
 {%- liquid
-  assign now_ts = 'now' | date: '%s'
+  assign now_ts = 'now' | date: '%s' | plus: 0
   assign start_ts = section.settings.start_ts
   assign end_ts = section.settings.end_ts
   assign show_banner = false
@@ -8,8 +8,10 @@
   endif
 -%}
 {%- if show_banner and section.settings.message != blank -%}
-  <div class="vacation-banner" style="width:100%;background:#fff4e5;border-bottom:1px solid #f0c987;text-align:center;padding:10px 16px;font-size:14px;line-height:1.4;">
-    <span style="max-width:1200px;display:inline-block;">{{ section.settings.message }}</span>
+  <div class="vacation-banner" style="width:100%;background:#d9342b;border-bottom:2px solid #a8241d;text-align:center;padding:14px 16px;">
+    <span style="max-width:1200px;display:inline-block;color:#ffffff;font-size:16px;font-weight:700;letter-spacing:0.01em;line-height:1.4;">
+      {{ section.settings.message }}
+    </span>
   </div>
 {%- endif -%}
 
