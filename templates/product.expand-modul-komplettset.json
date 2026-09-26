@@ -108,7 +108,7 @@
           "settings": {
             "heading": "Lieferumfang",
             "icon": "box",
-            "row_content": "<ul><li>1 × Expand-Modul</li><li>1 × Verdunkelungs-Abdeckung</li><li>4 × Verbindungsabdeckungen</li><li>Gewählte Anzahl an  Nestverbinder</li><li>1 × Schlauch- und Reagenzglasverbinder</li><li>1 × Inbusschlüssel für die Schrauben</li></ul>",
+            "row_content": "<ul><li>1 × Expand-Modul</li><li>1 × Verdunkelungs-Abdeckung</li><li>8 × Verbindungsabdeckungen</li><li>Gewählte Anzahl an &nbsp;Nestverbinder</li><li>1 × Schlauch- und Reagenzglasverbinder</li><li>1 × Inbusschlüssel für die Schrauben</li></ul>",
             "page": ""
           }
         },
@@ -178,7 +178,6 @@
       ],
       "name": "Nestverbinder",
       "settings": {
-        "image": "shopify://shop_images/IMG_20260530_151554276.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -217,7 +216,6 @@
       ],
       "name": "Verbindungsabdeckung",
       "settings": {
-        "image": "shopify://shop_images/IMG-20260530-WA0049.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -256,7 +254,6 @@
       ],
       "name": "Schlauch- und Reagenzgalsverbinder",
       "settings": {
-        "image": "shopify://shop_images/IMG_20260530_151347679.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
