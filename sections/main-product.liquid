@@ -676,6 +676,21 @@
                 {% render 'icon-with-text', block: block %}
             {%- endcase -%}
           {%- endfor -%}
+          <div class="eu-warranty-label" style="margin-top: 20px;">
+            <a
+              href="https://europa.eu/youreurope/business/selling-in-eu/consumer-contracts-guarantees/eu-legal-guarantee-notice-and-garan-label/index_de.htm"
+              target="_blank"
+              rel="noopener"
+              aria-label="Informationen zur gesetzlichen Gewährleistung (EU)"
+            >
+              <img
+                src="https://cdn.shopify.com/s/files/1/0920/9597/1670/files/eu-gewaehrleistungslabel.png?v=1790692925"
+                alt="Gesetzliche Gewährleistung – EU-Hinweis: 2 Jahre gesetzliche Gewährleistung, weitere Informationen unter europa.eu/youreurope/garantien"
+                loading="lazy"
+                style="max-width: 320px; width: 100%; height: auto; display: block;"
+              >
+            </a>
+          </div>
           <a href="{{ product.url }}" class="link product__view-details animate-arrow">
             {{ 'products.product.view_full_details' | t }}
             {{- 'icon-arrow.svg' | inline_asset_content -}}
